@@ -1,16 +1,5 @@
 # Task 2 – Custom IAM Policy, EC2 Role & MFA Configuration
 
----
-
-## 📋 Document Header
-
-* **Full Name:** Venkatesh
-* **Assignment Number & Name:** Task 2 – Custom IAM Policy, EC2 Role & MFA
-* **Submission Date:** October 25, 2026
-* **AWS Region Used:** Global (`us-east-1` for IAM Console; activity validated in `ap-south-1` / `eu-north-1`)
-* **AWS Account ID:** `022278165851` (Devsecops)
-
----
 
 ## 📌 Assignment Task Statement
 
